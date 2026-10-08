@@ -22,5 +22,3 @@ Each module has its own folder with daily exercises named `day-NN-topic.py` and 
 ## Projects
 
 Larger projects live in their own repositories (links added as they are completed).
-## Projects                                                                                                                                                     ## Projects
-Larger projects live in thier own repositories (links added as they are completd).
